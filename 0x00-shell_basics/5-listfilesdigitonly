@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 mkdir /tmp/my_first_directory
+=======
+ls -al
+>>>>>>> 5df916d292d083981d5500c9fa59b45851a66fe7
