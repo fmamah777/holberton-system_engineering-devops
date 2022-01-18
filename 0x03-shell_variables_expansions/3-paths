@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH ls/etc | we -l
+ls /$PATH/ | echo
