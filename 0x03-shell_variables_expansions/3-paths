@@ -1,2 +1,2 @@
 #!/bin/bash
-DIRS=$(find . -PATH d)
+DIRS=$(find . $PATH d)
