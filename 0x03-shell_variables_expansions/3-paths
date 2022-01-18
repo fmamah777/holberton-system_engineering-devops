@@ -1,2 +1,2 @@
 #!/bin/bash
-DIRS=$(find . $PATH d)
+echo $PATH | find/mount/point -typed | wc -l  
