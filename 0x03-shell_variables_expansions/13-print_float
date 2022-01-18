@@ -1,2 +1,2 @@
 #!/bin/bash
-echo NUM=VAR "%.2f""
+printf "%3.2f/n" $NUM
