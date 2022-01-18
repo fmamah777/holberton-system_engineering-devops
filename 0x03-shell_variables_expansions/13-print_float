@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $t NUM= printf "%.2f"
+echo NUM=VAR "%.2f""
