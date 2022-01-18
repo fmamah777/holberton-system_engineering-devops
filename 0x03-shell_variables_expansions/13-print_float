@@ -1,2 +1,2 @@
 #!/bin/bash
-echo  NUM =
+echo $t NUM= | bc -l | xargs printf "%.2f"
