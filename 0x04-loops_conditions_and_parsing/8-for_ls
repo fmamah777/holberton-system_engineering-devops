@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 ##This will display directory content in specific format 
-cd$ls
+cd=$(ls)
 file=0
 for file in $cd
 do
-echo "$file" | cut -d "_" -f2
+	echo "$file" | cut -d "-" -f2
 done
