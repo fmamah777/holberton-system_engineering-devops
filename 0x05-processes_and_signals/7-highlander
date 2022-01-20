@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#this script displays certain iterations
+pkill -f "7-highlander" 
