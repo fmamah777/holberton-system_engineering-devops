@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-## This script will display numbers 1-20 and 3 iterations as well
-
+## This script will display 
 x=0
 while [ $x -le 20 ]
 do echo {1..20}
