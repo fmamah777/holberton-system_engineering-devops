@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+## This script displays best school with an iteraton 
+
+x=1; while [ $x -le 10 ] 
+
+do
+
+echo " Best School " 
+
+x=$(( x + 1 ))
+
+if
+
+[ $x -eq 9 ];
+
+then
+
+echo " Hi " 
+
+fi
+
+((best++))
+
+done 
