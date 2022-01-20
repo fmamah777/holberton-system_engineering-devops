@@ -1,0 +1,14 @@
+#!/usr/bin/env bash 
+##This syntax lists time in hours and minutes 
+h=0
+while [ $h -le 12 ]
+do
+echo "Hour: $h"
+((m++))
+m=1
+While [$m -le 59 ]
+do 
+echo $m
+((m++))
+done 
+done
