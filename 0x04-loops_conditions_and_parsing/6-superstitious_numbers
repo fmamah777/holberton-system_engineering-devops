@@ -1,6 +1,5 @@
 #!/usr/bin/bash
 ## This script will display numbers and sentance iterations. 
-
 x=0
 while [ $x -le 20 ]
 do echo {1..20}
